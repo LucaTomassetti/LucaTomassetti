@@ -4,4 +4,3 @@
 
 ~ 🧑‍💻​ Currently studying Computer Engineering at Univaq
 
-~ ⏳ Now working on some webapp project in php and java
